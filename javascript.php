@@ -50,5 +50,5 @@ Las propiedades y sus valores pueden ser creados, cambiados o eliminados en tiem
 por la cadena de la herencia prototípica) pueden ser enumeradas a por medio de la instrucción de bucle for... in. JavaScript tiene un pequeño número de objetos 
 predefinidos como son Function y Date.
 </p>
-
+<?php $tipo = "javascript"; include 'comentarios.inc';?>
 <?php include 'pie.inc'; ?> 
